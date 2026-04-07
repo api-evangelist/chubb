@@ -1,7 +1,11 @@
 aid: chubb
-url: https://raw.githubusercontent.com/api-evangelist/chubb/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/chubb/refs/heads/main/apis.yml
 modified: '2026-03-23'
 apis: []
 common:
   - type: Website
     url: https://www.chubb.com
+description: >-
+  Chubb is a world leader in insurance, serving consumers & companies of all sizes.
+  Get a quote today.

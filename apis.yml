@@ -176,6 +176,10 @@ common:
       - name: NAIC Model Laws
       - name: Solvency II
       - name: ISO Insurance Standards
+  - type: Integrations
+    url: https://sciagents.chubb.com/marketplace/
+integrations:
+  - name: loader
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com

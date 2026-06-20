@@ -22,7 +22,7 @@ description: >-
 type: Index
 position: Consuming
 access: 3rd-Party
-image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 url: >-
   https://raw.githubusercontent.com/api-evangelist/chubb/refs/heads/main/apis.yml
 tags:
@@ -57,7 +57,7 @@ apis:
       into their own customer experiences via APIs and SDKs. Supported
       product categories include cyber, health and wellness, personal
       belongings and lifestyle, life, small business, and travel insurance.
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://chubbstudio.com
     tags:
       - Embedded Insurance

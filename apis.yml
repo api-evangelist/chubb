@@ -108,7 +108,7 @@ common:
     url: https://www.chubb.com/us-en/contact-us/
   - type: Support
     url: https://www.chubb.com/us-en/customer-service.html
-  - type: TermsOfUse
+  - type: TermsOfService
     url: https://www.chubb.com/us-en/terms-of-use.html
   - type: PrivacyPolicy
     url: https://www.chubb.com/us-en/online-privacy-policy.html

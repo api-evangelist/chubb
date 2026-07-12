@@ -66,6 +66,8 @@ apis:
       - type: Documentation
         url: https://chubbstudio.com
 common:
+  - type: DomainSecurity
+    url: security/chubb-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/chubb
   - type: Website
@@ -112,6 +114,8 @@ common:
     url: https://www.chubb.com/us-en/terms-of-use.html
   - type: PrivacyPolicy
     url: https://www.chubb.com/us-en/online-privacy-policy.html
+  - url: https://news.chubb.com/news-releases?pagetemplate=rss
+    type: Blog
   - name: BusinessSegments
     type: BusinessSegments
     data:

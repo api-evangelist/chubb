@@ -58,7 +58,7 @@ tags:
   - Workers Compensation
 created: '2026-03-23'
 modified: '2026-04-23'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 apis:
   - aid: chubb:chubb-studio
     name: Chubb Studio

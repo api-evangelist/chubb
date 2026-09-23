@@ -1,7 +1,9 @@
 ---
 title: Chubb Launches AI-Powered Embedded Insurance Engine
 url: https://www.prnewswire.com/news-releases/chubb-launches-ai-powered-embedded-insurance-engine-302611988.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Chubb" press release artificial intelligence'
 position: 2
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: Digital business accelerated
 url: https://www.chubb.com/content/dam/aem-chubb-global/digital-business-accelerated/pdf/chubb_digital-business_research-report.pdf
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Chubb" press release artificial intelligence'
 position: 4
 source: serpapi-google

@@ -89,6 +89,12 @@ apis:
       - type: Documentation
         url: https://chubbstudio.com
 common:
+  - type: Plans
+    url: plans/chubb-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/chubb-rate-limits.yml
+  - type: FinOps
+    url: finops/chubb-finops.yml
   - type: DomainSecurity
     url: security/chubb-domain-security.yml
   - type: LinkedIn

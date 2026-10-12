@@ -1,6 +1,7 @@
 generated: '2026-10-13'
 method: searched
 checked:
+- https://app.usecanopy.com/api/v1.0.0/carriers
 - https://openid.net/developers/certified-openid-connect-implementations/
 marketplace_apps: []
 edges:
@@ -33,4 +34,16 @@ edges:
     detected_by: sweep-identity.py
     detected: '2026-10-13'
   detected_by: sweep-identity.py
+  detected: '2026-10-13'
+- partner_name: canopy
+  partner: canopy
+  partner_match: domain
+  type: coverage
+  channel: partner-built
+  relationship: carrier-coverage
+  direction: partner-built
+  evidence: https://app.usecanopy.com/api/v1.0.0/carriers
+  category: insurance-carrier
+  covered_as: chubb
+  detected_by: sweep-insurance.py
   detected: '2026-10-13'

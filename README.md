@@ -1,4 +1,4 @@
-# Chubb (chubb)
+# Chubb
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,50 +64,105 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Chubb Limited is the world's largest publicly traded property and casualty (P&C) insurance company, serving consumers, small businesses, and multinational corporations across 54 countries and territories. Chubb offers commercial and personal P&C, personal accident and supplemental health insurance, reinsurance, and life insurance, and operates the Chubb Studio embedded insurance platform for partners.
+Chubb Limited is the world's largest publicly traded property and casualty (P&C) insurance company, serving consumers, small businesses, and multinational corporations across 54 countries and territories. Chubb offers commercial and personal property and casualty insurance, personal accident and supplemental health insurance, reinsurance, and life insurance. The company manages more than $200B in global assets, paid $21B in claims (2023), and offers more than 200 insurance products and services. Key personal lines include homeowners, auto, valuables (jewelry, arts, wine), boat and yacht, pet (through a Healthy Paws partnership), and travel insurance. Commercial lines include small business, accident and health, commercial package, cyber, management liability, marine, professional liability, workers' compensation, and industry-specialty programs (construction, financial institutions, healthcare, life sciences, manufacturing, real estate, technology, climate). Chubb Studio is the company's embedded insurance technology platform offering APIs and SDKs for partners to integrate Chubb insurance products into their own digital experiences.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/chubb/refs/heads/main/apis.yml)
+**Areas:** Accident and Health · Auto Insurance · Claims · Commercial Insurance · Cyber Insurance · Embedded Insurance · Fortune 500 · Homeowners · Insurance · Life Insurance · Marine · Personal Insurance
 
-## Scope
+## Chubb on APIs.io
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Everything profiled for Chubb is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/chubb/](https://apis.io/providers/chubb/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### APIs (1)
 
-- Accident and Health, Auto Insurance, Claims, Commercial Insurance, Cyber Insurance, Embedded Insurance, Fortune 500, Homeowners, Insurance, Life Insurance, Marine, Personal Insurance, Property and Casualty, Reinsurance, Risk Management, Travel Insurance, Valuables, Workers Compensation
+- [Chubb Studio](https://apis.io/apis/chubb/chubb-studio/) — Chubb Studio is Chubb's embedded insurance technology platform that enables digital partners (banks, retailers, travel platforms, fintechs, OEMs, and other…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2026-03-23
-- **Modified:** 2026-04-23
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
-### Chubb Studio
+Authentication, trust centre, and vulnerability disclosure.
 
-Chubb Studio is Chubb's embedded insurance technology platform that enables digital partners (banks, retailers, travel platforms, fintechs, OEMs, and other distributors) to integrate Chubb's insurance products into their own customer experiences via APIs and SDKs. Supported product categories include cyber, health and wellness, personal belongings and lifestyle, life, small business, and travel insurance.
+- [Chubb Domain Security](https://apis.io/security/chubb/chubb-domain-security/)
 
-- **Human URL:** [https://chubbstudio.com](https://chubbstudio.com)
+#### Plans and pricing (1)
 
-## Common Properties
+Published plans, tiers and prices.
+
+- [Chubb Plans Pricing](https://apis.io/plans/chubb/chubb-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Chubb Rate Limits](https://apis.io/rate-limits/chubb/chubb-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Chubb Finops](https://apis.io/finops/chubb/chubb-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.chubb.com)
-- [Chubb Studio](https://chubbstudio.com)
-- [Client Portal](https://clientcenter.chubb.com)
-- [Business Login](https://secure.chubb.com)
-- [Claims Reporting](https://prsclaims.chubb.com)
-- [QuickPay](https://quickpay.chubb.com)
-- [Personal Insurance](https://www.chubb.com/us-en/individuals-families/)
-- [Business Insurance](https://www.chubb.com/us-en/businesses/)
-- [Investor Relations](https://investors.chubb.com)
-- [Newsroom](https://news.chubb.com)
-- [Careers](https://careers.chubb.com)
-- [Privacy Policy](https://www.chubb.com/us-en/online-privacy-policy.html)
+- [Support](https://www.chubb.com/us-en/customer-service.html)
+- [Blog](https://news.chubb.com/news-releases?pagetemplate=rss)
+- [Terms of service](https://www.chubb.com/us-en/terms-of-use.html)
+- [Privacy policy](https://www.chubb.com/us-en/online-privacy-policy.html)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 12.5** — emerging · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 58.0 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 26.3 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 12.3** — Insurance
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/chubb/](https://apis.io/providers/chubb/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Chubb: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/chubb/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
